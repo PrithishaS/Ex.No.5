@@ -34,5 +34,6 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+https://docs.google.com/document/d/1cyL8LOohCqFUJfId6BwInS8NQ1TH3_1icQyZLXqiR7Y/edit?usp=sharing
 
 # RESULT: The prompt for the above said problem executed successfully
